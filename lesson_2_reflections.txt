@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	By initializing the repository, you create a box so to speak to actually hold the commit history. It's like packing items in a box. Before packing, you need to have a box to put things into. Without it, you are unable to store your commit history anywhere.
+
+How is the staging area different from the working directory and the respository? What value do you think it offers?
+	
