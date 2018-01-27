@@ -1,0 +1,20 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced. 
+	It narrowed it down so as to only show that which had changed. Instead of looking at thousands of lines of code, we only had to look at the lines of code that had changed.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	Having versions will not only allow me to roll back to a working version if the new version does not work, but can also be used as material to show growth or changes over time in the coding. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git. vs having versions automatically saved, like Google Docs does? 
+	Pros of manually committing, would be if a change I made broke the system, I could decide not to commit in order to start fresh and work on the bug. Con, is that if I forget to commit, I will have lost the change if it was a good fix. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file seperately. 
+	Because in programming it's not uncommon to have multiple files necessary in the function of a single program. If changes are made on one, and something breaks, it would help to see if changes were made to the other files or not. This also aids us in knowing at a glance what the issue might be.
+
+How can you use the commands git log and git diff to view the history of files?
+	git log allows you to see all of the commits applied to a repository. git diff allows you to see the differences made to each file. If you start by doing a git log, you can find the two commits closest to each other in order to see out the closest changes made using diff
+
+How might using version control make you more confident to make changes that could break something?
+	The idea that I can go back to an earlier version at any time to test means I don't have to look through lines of code line per line, consuming a lot of time and energy.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	Everything!!
